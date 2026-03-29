@@ -1,4 +1,4 @@
-package com.GA.controller;
+package com.controller;
 
 public class HomeController {
 

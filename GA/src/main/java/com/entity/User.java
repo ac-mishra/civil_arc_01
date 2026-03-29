@@ -1,4 +1,4 @@
-package com.GA.entity;
+package com.entity;
 
 public class User {
 

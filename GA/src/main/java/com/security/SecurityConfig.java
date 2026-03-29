@@ -1,4 +1,4 @@
-package com.GA.security;
+package com.security;
 
 public class SecurityConfig {
 

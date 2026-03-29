@@ -1,4 +1,4 @@
-package com.GA.service;
+package com.service;
 
 public class UserService {
 
